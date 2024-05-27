@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/corythompson/Projects/chapp/build",
+  "command": "/Users/corythompson/Projects/chapp/.bin/clang++  -I/Users/corythompson/Projects/chapp/include -g -std=gnu++23 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -Weverything -Werror -Wno-c++98-compat -Wno-missing-prototypes -Wno-unsafe-buffer-usage -Wno-padded -Wno-missing-noreturn -o CMakeFiles/chapp.dir/main.cpp.o -c /Users/corythompson/Projects/chapp/main.cpp",
+  "file": "/Users/corythompson/Projects/chapp/main.cpp",
+  "output": "CMakeFiles/chapp.dir/main.cpp.o"
+}
+]
